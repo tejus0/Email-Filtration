@@ -7,9 +7,9 @@ This project aims to develop a machine learning model that can classify emails a
 **Modules and Libraries Used**
 
 **Pandas**: A popular library for data manipulation and analysis in Python.
-**Scikit-learn**: A machine learning library in Python that provides various algorithms and tools for data analysis and modeling.
-**CountVectorizer**: A module in scikit-learn that converts text data into a matrix of word counts.
-**MultinomialNB**: A module in scikit-learn that implements the Multinomial Naive Bayes algorithm for classification tasks.
+**Scikit-learn**: A machine learning library in Python that provides various algorithms and tools for data analysis and modeling. 
+**CountVectorizer**: A module in scikit-learn that converts text data into a matrix of word counts. 
+**MultinomialNB**: A module in scikit-learn that implements the Multinomial Naive Bayes algorithm for classification tasks. 
 **train_test_split**: A function in scikit-learn that splits a dataset into training and testing sets.
 **accuracy_score**: A function in scikit-learn that calculates the accuracy of a model.
 **classification_report**: A function in scikit-learn that generates a classification report for a model.
